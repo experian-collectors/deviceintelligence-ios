@@ -17,8 +17,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "UDICollectorSDK",
-            url: "https://github.com/experian-collectors/deviceintelligence-ios/releases/download/9.4.0/deviceintelligence-collector-ios-xcframework-9.4.0.zip", // Replace with actual URL during build
-            checksum: "e89bf832eccbde2cf9b56ccf595344ab5547cae009caa287b53456e15c022e56" // Replace with actual checksum during build
+            url: "https://github.com/experian-collectors/deviceintelligence-ios/releases/download/9.5.0/deviceintelligence-collector-ios-xcframework-9.5.0.zip", // Replace with actual URL during build
+            checksum: "acb0de2e258bc154498402da9213176e6b6c9eadf39d470eda136aa7eae1b97d" // Replace with actual checksum during build
         )
     ]
 )
